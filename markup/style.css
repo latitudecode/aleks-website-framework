@@ -1,0 +1,22 @@
+.wrapper {
+	margin: 0 auto;
+	width: 1000px;
+	position: relative;
+}
+
+.main-content {
+	margin: 0 auto;
+	width: 100%;
+	
+}
+
+/* ================ Main entries ================== */
+
+.main-entries {
+	position: relative;
+	top: 250px;
+}
+
+.main-content .main-entries {
+	text-align: center;
+}
