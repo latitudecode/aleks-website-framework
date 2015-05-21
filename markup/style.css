@@ -25,7 +25,7 @@ ul {
 	text-align: center;
 }
 
-.studies, .experiments, .studies a, .experiements a {
+.studies h2, .experiments h2, .studies a, .experiments a {
 	text-decoration: line-through;
 }
 
@@ -46,6 +46,10 @@ ul {
 
 .main-content .post-content img {
 	max-width: 720px;
+}
+
+.main-content .post-content h1 {
+	text-align: center;
 }
 
 .back {
