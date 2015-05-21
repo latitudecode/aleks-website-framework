@@ -2,3 +2,63 @@
 	Theme Name: Aleks WP
 	Theme URI: http://workbysam.com
 */
+
+ul {
+  list-style-type: none;
+}
+
+.wrapper {
+	margin: 0 auto;
+	width: 1000px;
+	position: relative;
+}
+
+.main-content {
+	margin: 0 auto;
+	width: 100%;
+	
+}
+
+/* ================ Main entries ================== */
+
+.main-entries {
+	position: relative;
+	top: 250px;
+}
+
+.main-content .main-entries {
+	text-align: center;
+}
+
+.studies h2, .experiments h2, .studies a, .experiments a {
+	text-decoration: line-through;
+}
+
+/* ================ Page list ================== */
+
+
+.page-list h1 {
+  text-align: center;
+}
+
+
+/* ================ Post content ================== */
+
+.main-content .post-content {
+	max-width: 760px;
+	margin: 0 auto;
+}
+
+.main-content .post-content img {
+	max-width: 720px;
+}
+
+.main-content .post-content h1 {
+	text-align: center;
+}
+
+.back {
+	position: absolute;
+	top: 5px;
+	left: 10px;
+}
