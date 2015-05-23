@@ -1,3 +1,14 @@
+<?php
+/*
+ * Template Name: Page list
+ * Description: List of posts
+ */
+
+//
+
+?>
+
+
 <?php get_header(); ?>
 
 
