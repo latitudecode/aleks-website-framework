@@ -1,3 +1,6 @@
+<?php get_header(); ?>
+
+
 <body>
 
 <!-- back btn -->
@@ -54,3 +57,5 @@
 		</div> <!-- end row -->		
 	</div>
 <!-- end main content -->
+
+<?php wp_footer(); ?>

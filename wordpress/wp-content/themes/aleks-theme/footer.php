@@ -3,8 +3,10 @@
 </footer>
 
 </div>
-    <script src="/js/bootstrap.js"></script>
-    <script src="/js/bootstrap.min.js"></script>
-    <script src="/js/npm.js"></script>	    
+    <script src="<?php bloginfo('template_directory'); ?>/js/bootstrap.js"></script>
+    <script src="<?php bloginfo('template_directory'); ?>/js/bootstrap.min.js"></script>
+    <script src="<?php bloginfo('template_directory'); ?>/js/npm.js"></script>	    
 </body>
 </html>
+
+

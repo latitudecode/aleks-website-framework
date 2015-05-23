@@ -1,3 +1,5 @@
+<?php get_header(); ?>
+
 <!-- main content -->
 	<div class="main-content">
 		<div class="row"> <!-- start row -->
@@ -16,3 +18,5 @@
 		</div> <!-- end row -->
 	</div>
 <!-- end main content -->
+
+<?php wp_footer(); ?>
