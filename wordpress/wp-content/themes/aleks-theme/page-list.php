@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php
 /*
  * Template Name: Lessons
@@ -11,6 +12,8 @@
 <?php get_header(); ?>
 
 
+=======
+>>>>>>> parent of 8f67951... adding header footer and sourcing css js
 <body>
 
 <!-- back btn -->
@@ -46,6 +49,7 @@
 					</li>																							
 				</ul> <!-- end post list -->
 			</div>
+<<<<<<< HEAD
 
 				<?php endwhile; endif; wp_reset_query(); ?>	
 
@@ -53,3 +57,176 @@
 <!-- end main content -->
 
 <?php wp_footer(); ?>
+=======
+			<div class="col-md-4">
+<ul> <!-- start post list -->
+					<li>
+						<a class="btn" href="single.html">
+							<h2>Title of lesson</h2>
+						</a>
+					</li>
+					<li>
+						<a class="btn" href="single.html">
+							<h2>Title of lesson</h2>
+						</a>
+					</li>
+					<li>
+						<a class="btn" href="single.html">
+							<h2>Title of lesson</h2>
+						</a>
+					</li>
+					<li>
+						<a class="btn" href="single.html">
+							<h2>Title of lesson</h2>
+						</a>
+					</li>
+					<li>
+						<a class="btn" href="single.html">
+							<h2>Title of lesson</h2>
+						</a>
+					</li>
+					<li>
+						<a class="btn" href="single.html">
+							<h2>Title of lesson</h2>
+						</a>
+					</li>
+					<li>
+						<a class="btn" href="single.html">
+							<h2>Title of lesson</h2>
+						</a>
+					</li>
+					<li>
+						<a class="btn" href="single.html">
+							<h2>Title of lesson</h2>
+						</a>
+					</li>
+					<li>
+						<a class="btn" href="single.html">
+							<h2>Title of lesson</h2>
+						</a>
+					</li>
+					<li>
+						<a class="btn" href="single.html">
+							<h2>Title of lesson</h2>
+						</a>
+					</li>
+					<li>
+						<a class="btn" href="single.html">
+							<h2>Title of lesson</h2>
+						</a>
+					</li>
+					<li>
+						<a class="btn" href="single.html">
+							<h2>Title of lesson</h2>
+						</a>
+					</li>
+					<li>
+						<a class="btn" href="single.html">
+							<h2>Title of lesson</h2>
+						</a>
+					</li>
+					<li>
+						<a class="btn" href="single.html">
+							<h2>Title of lesson</h2>
+						</a>
+					</li>
+					<li>
+						<a class="btn" href="single.html">
+							<h2>Title of lesson</h2>
+						</a>
+					</li>
+					<li>
+						<a class="btn" href="single.html">
+							<h2>Title of lesson</h2>
+						</a>
+					</li>																										
+				</ul> <!-- end post list -->		
+			</div>
+			<div class="col-md-4"> <!-- end three column -->
+<ul> <!-- start post list -->
+					<li>
+						<a class="btn" href="single.html">
+							<h2>Title of lesson</h2>
+						</a>
+					</li>
+					<li>
+						<a class="btn" href="single.html">
+							<h2>Title of lesson</h2>
+						</a>
+					</li>
+					<li>
+						<a class="btn" href="single.html">
+							<h2>Title of lesson</h2>
+						</a>
+					</li>
+					<li>
+						<a class="btn" href="single.html">
+							<h2>Title of lesson</h2>
+						</a>
+					</li>
+					<li>
+						<a class="btn" href="single.html">
+							<h2>Title of lesson</h2>
+						</a>
+					</li>
+					<li>
+						<a class="btn" href="single.html">
+							<h2>Title of lesson</h2>
+						</a>
+					</li>
+					<li>
+						<a class="btn" href="single.html">
+							<h2>Title of lesson</h2>
+						</a>
+					</li>
+					<li>
+						<a class="btn" href="single.html">
+							<h2>Title of lesson</h2>
+						</a>
+					</li>
+					<li>
+						<a class="btn" href="single.html">
+							<h2>Title of lesson</h2>
+						</a>
+					</li>
+					<li>
+						<a class="btn" href="single.html">
+							<h2>Title of lesson</h2>
+						</a>
+					</li>
+					<li>
+						<a class="btn" href="single.html">
+							<h2>Title of lesson</h2>
+						</a>
+					</li>
+					<li>
+						<a class="btn" href="single.html">
+							<h2>Title of lesson</h2>
+						</a>
+					</li>
+					<li>
+						<a class="btn" href="single.html">
+							<h2>Title of lesson</h2>
+						</a>
+					</li>
+					<li>
+						<a class="btn" href="single.html">
+							<h2>Title of lesson</h2>
+						</a>
+					</li>
+					<li>
+						<a class="btn" href="single.html">
+							<h2>Title of lesson</h2>
+						</a>
+					</li>
+					<li>
+						<a class="btn" href="single.html">
+							<h2>Title of lesson</h2>
+						</a>
+					</li>																										
+				</ul> <!-- end post list -->			
+			</div>						
+		</div> <!-- end row -->
+	</div>
+<!-- end main content -->
+>>>>>>> parent of 8f67951... adding header footer and sourcing css js

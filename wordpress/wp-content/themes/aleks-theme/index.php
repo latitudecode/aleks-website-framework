@@ -1,5 +1,3 @@
-<?php get_header(); ?>
-
 <!-- main content -->
 	<div class="main-content">
 		<div class="main-entries row"> <!-- start row -->
@@ -39,9 +37,13 @@
 
 		</div> <!-- end row -->
 	</div>
+<<<<<<< HEAD
 <!-- end main content -->
 
 <?php wp_footer(); ?>
 
 
 
+=======
+<!-- end main content -->
+>>>>>>> parent of 8f67951... adding header footer and sourcing css js
