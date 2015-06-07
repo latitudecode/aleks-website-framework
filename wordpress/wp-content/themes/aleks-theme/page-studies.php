@@ -1,6 +1,6 @@
 <?php
 /*
- * Template Name: Lessons
+ * Template Name: Studies
  * Description: List of posts
  */
 

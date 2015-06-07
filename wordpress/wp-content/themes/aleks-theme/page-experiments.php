@@ -1,6 +1,6 @@
 <?php
 /*
- * Template Name: Lessons
+ * Template Name: Experiments
  * Description: List of posts
  */
 
